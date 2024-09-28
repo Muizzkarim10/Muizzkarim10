@@ -9,7 +9,7 @@ I am an AI developer with a passion for building intelligent systems and automat
 * 🌍  I'm based in Gilgit-Baltistan, Pakistan
 * ✉️  You can contact me at [muizzkarim10@gmail.com](mailto:muizzkarim10@gmail.com)
 
-[![Muizz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muizz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muizzkarim10&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Skills
