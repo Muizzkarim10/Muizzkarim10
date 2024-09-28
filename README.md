@@ -17,4 +17,4 @@ I am an AI developer with a passion for building intelligent systems and automat
 
 ### Watch my contributions grow!
 
-![snake gif](https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/main/assets/github-contribution-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/main/.github/workflow/github-contribution-snake.svg)
