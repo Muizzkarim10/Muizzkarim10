@@ -6,11 +6,8 @@ AI Developer | Machine Learning | Data Science | Automation
 
 I am an AI developer with a passion for building intelligent systems and automating complex tasks using cutting-edge machine learning and data science techniques. My expertise includes developing end-to-end AI solutions, from data extraction and preprocessing to model development and deployment. I have hands-on experience with popular AI frameworks such as TensorFlow, PyTorch, and Scikit-learn, and I actively contribute to open-source projects. Key Skills: Python, Deep Learning, NLP, Computer Vision, Web Scraping, Automation Tech Stack: Python, Playwright, TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn Projects: AI-powered web scrapers, recommendation systems, NLP models, and custom machine learning solutions.
 
-* 🌍  I'm based in Gilgit-Baltistan, Pakistan
+* 🌍  I'm from Gilgit-Baltistan, Pakistan.
 * ✉️  You can contact me at [muizzkarim10@gmail.com](mailto:muizzkarim10@gmail.com)
-
-![Muizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muizzkarim10&show_icons=true&theme=radical)
-
 
 ### Skills
 
