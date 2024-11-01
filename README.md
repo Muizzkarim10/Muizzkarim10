@@ -12,3 +12,6 @@ A Professional AI Developer and Machine Learning Engineer, with a passion for tu
 ## 🛠 Skills
 ![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge)
 ![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge)
+![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge)
+![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge)
+![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
