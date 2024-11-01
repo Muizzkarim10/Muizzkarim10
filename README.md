@@ -7,3 +7,5 @@ I'm Muizz, a Professional AI Developer and Machine Learning Engineer, with a pas
 <img src="https://raw.githubusercontent.com/Muizzkarim10/Muizzkarim10/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+## 🛠 Skills
