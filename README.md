@@ -1,7 +1,7 @@
 ## 👋 Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
 </br>
-<span style="font-size:24px; font-family:Georgia; color:purple;"><strong>Hi, I am Muizz!</strong></span>
+<strong>Hi, I am Muizz!</strong>
 </br>
 I'm Muizz, a Professional AI Developer and Machine Learning Engineer, with a passion for turning complex data into actionable intelligence. I specialize in crafting intelligent, data-driven solutions that leverage the latest advancements in machine learning and AI to address challenging real-world problems. My work focuses on analyzing, transforming, and modeling data to develop solutions that are not only accurate but also highly scalable and efficient. Whether through classification, regression, clustering, or recommendation models, I strive to deliver results that meet specific business needs and exceed expectations.
 
