@@ -22,4 +22,5 @@ A Professional AI Developer and Machine Learning Engineer, with a passion for tu
 ![Natural Language Processing](https://img.shields.io/static/v1?message=NLP&logo=nltk&label=&color=4B8BBE&logoColor=white&labelColor=&style=for-the-badge)
 ![Computer Vision](https://img.shields.io/static/v1?message=Computer+Vision&logo=opencv&label=&color=5C3EE8&logoColor=white&labelColor=&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
+![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)
 
