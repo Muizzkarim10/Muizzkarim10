@@ -15,3 +15,9 @@ A Professional AI Developer and Machine Learning Engineer, with a passion for tu
 ![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge)
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
+![Data Scraping](https://img.shields.io/static/v1?message=Data+Scraping&logo=webscraping&label=&color=FF8800&logoColor=white&labelColor=&style=for-the-badge)
+![Machine Learning](https://img.shields.io/static/v1?message=Machine+Learning&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
+![Deep Learning](https://img.shields.io/static/v1?message=Deep+Learning&logo=deeplearningai&label=&color=003A70&logoColor=white&labelColor=&style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/static/v1?message=NLP&logo=nltk&label=&color=4B8BBE&logoColor=white&labelColor=&style=for-the-badge)
+![Computer Vision](https://img.shields.io/static/v1?message=Computer+Vision&logo=opencv&label=&color=5C3EE8&logoColor=white&labelColor=&style=for-the-badge)
+
