@@ -9,3 +9,5 @@ I'm Muizz, a Professional AI Developer and Machine Learning Engineer, with a pas
 </div>
 
 ## 🛠 Skills
+![HTML](https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge)
+![CSS](https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge)
