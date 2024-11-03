@@ -24,3 +24,7 @@ AI Developer and Machine Learning Engineer, with a passion for turning complex d
 ![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
 ![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
