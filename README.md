@@ -23,3 +23,6 @@ AI Developer and Machine Learning Engineer, with a passion for turning complex d
 ![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge)
 ![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
+![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
