@@ -14,5 +14,5 @@ AI Developer and Machine Learning Engineer, with a passion for turning complex d
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,c" />
 </div>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=python,javascript,,mysql,pytorch,,keras,scikit-learn,jupyter" />
+     <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,mysql,pytorch,,keras,scikit-learn,jupyter" />
 </div>
