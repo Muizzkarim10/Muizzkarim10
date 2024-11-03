@@ -11,8 +11,7 @@ AI Developer and Machine Learning Engineer, with a passion for turning complex d
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" /> </br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,nextjs,mysql,flask" />
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikit-learn,jupyter" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,gitnodejs,python,javascript,c,java,nextjs,mysql,flask,tensorflow,pytorch,keras,scikit-learn,jupyter" /> </br>
+    
 </div>
 
