@@ -21,12 +21,3 @@ AI Developer and Machine Learning Engineer, with a passion for turning complex d
 
 </div>
 
-</br>
-<h3 align="center"> -Languages-Frameworks-Tools- </h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,c" />
-</div>
-<div align="center", justify-content="align-center">
-     <img src="https://skillicons.dev/icons?i=python,javascript,tensorflow,mysql,pytorch,anaconda,opencv,linux" />
-</div>
-
