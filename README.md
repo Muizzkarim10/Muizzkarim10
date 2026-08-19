@@ -1,4 +1,4 @@
-## 👋 Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+## 👋 Hello World  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
 </br>
 <strong>Hi, I am Muizz !</strong>
