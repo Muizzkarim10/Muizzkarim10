@@ -11,13 +11,17 @@ AI Developer and Machine Learning Engineer, with a passion for turning complex d
 
 <div align="center">
 
-![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&logo=tensorflow&label=&color=FF6F00&logoColor=white&labelColor=&style=for-the-badge)
-![PyTorch](https://img.shields.io/static/v1?message=PyTorch&logo=pytorch&label=&color=EE4C2C&logoColor=white&labelColor=&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/static/v1?message=Scikit-learn&logo=scikit-learn&label=&color=F7931E&logoColor=white&labelColor=&style=for-the-badge)
-![Pandas](https://img.shields.io/static/v1?message=Pandas&logo=pandas&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge)
-![NumPy](https://img.shields.io/static/v1?message=NumPy&logo=numpy&label=&color=013243&logoColor=white&labelColor=&style=for-the-badge)
-![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&logo=matplotlib&label=&color=11557C&logoColor=white&labelColor=&style=for-the-badge)
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=xgboost&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
