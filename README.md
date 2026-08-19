@@ -1,4 +1,4 @@
-## 👋 Muizz karim <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
+## 👋 Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 **`AI Developer and Machine Learning Engineer`**
 
 </br>
