@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muizzkarim10&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="muizzkarim10" />
+</p>
 ## 👋 Hello World!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 
 </br>
@@ -20,4 +23,7 @@
 ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-795548?style=for-the-badge)
 
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-saran&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Muhammad-saran" />
+</p>
 
